@@ -1,4 +1,3 @@
-```yaml
 name: Testes
 
 on:
@@ -21,4 +20,3 @@ jobs:
 
       - name: Rodar a suíte
         run: node --test
-```
